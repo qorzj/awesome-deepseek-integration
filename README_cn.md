@@ -833,7 +833,7 @@
     <tr>
         <td> <img src="https://raw.githubusercontent.com/lessweb/deepcode/main/resources/deepcoding_icon.png?raw=true" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://github.com/lessweb/deepcode/blob/main/README_cn.md"> Deep Code </a> </td>
-        <td> 开源扩展，是基于DeepSeek Agent能力、专为DeepSeek模型优化的编码助手，支持Skill。</td>
+        <td> 开源扩展，是基于DeepSeek Agent能力、专为DeepSeek模型优化的编码助手，支持Skills。</td>
     </tr>
 </table>
 
